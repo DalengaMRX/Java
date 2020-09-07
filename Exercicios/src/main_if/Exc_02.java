@@ -1,4 +1,7 @@
-package main;
+/*
+ * author                Matheus Dalenga
+ */
+package main_if;
 
 import java.util.Scanner;
 
@@ -19,7 +22,6 @@ public class Exc_02 {
 		} else {
 			System.out.print("O número " + num1 +" é Impar.");
 		}
-		
 		
 		sc.close();
 	}

@@ -1,4 +1,7 @@
-package main;
+/*
+ * author                Matheus Dalenga
+ */
+package main_if;
 
 import java.util.Scanner;
 
